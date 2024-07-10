@@ -1,2 +1,2 @@
 #main.py
-print("Hello, Kundan it's your GithubAction Demo Project")
+print("Hello, Kundan it's your first GithubAction Demo Project")
