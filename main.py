@@ -5,5 +5,6 @@ def call_api():
     url = "https://api.example.com/data"
     response = requests.get(url)
     print(response.json())
-
-call_api()
+    
+if __name__ == "__main__":
+    call_api()
