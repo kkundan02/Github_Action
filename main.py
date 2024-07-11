@@ -6,5 +6,4 @@ def call_api():
     response = requests.get(url)
     print(response.json())
     
-if __name__ == "__main__":
-    call_api()
+call_api()
